@@ -12,7 +12,7 @@ To install clone the GIT repository at the link below in Usage and then run "npm
 
 To use this application you can clone the GIT repository using the following link: https://github.com/willhaberer/HW-11-Ecomm-BE.git
 
-Demo-Vid: https://watch.screencastify.com/v/syRVYXik3AUZz7Fy6uOX
+Demo-Vid: https://watch.screencastify.com/v/gnlqNJKer0QSVqTzF0iw
 
 ## Contributing
 
